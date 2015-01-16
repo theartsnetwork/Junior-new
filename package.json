@@ -1,0 +1,13 @@
+{
+  "name": "Junior",
+  "version": "0.0.0",
+  "private": true,
+  "author": "Aksjirage akshayjirage.afp@gmail.com",
+  "description": "It helps you doing resrach in arts",
+  "dependencies": {
+    "hubot-slack": "^3.2.1"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
